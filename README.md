@@ -49,7 +49,6 @@
 
 - **[SevaGram](https://github.com/me-myst/SevaGram)** — Prototype platform connecting rural communities with trusted home-service providers. React, Node/Express, MongoDB, JWT auth. [Live demo](https://seva-gram.vercel.app/)
 - **Face Recognition Attendance System** — Automated attendance using facial recognition.
-- **Hotel Management System** — Full booking and management workflow.
 - **Sorting Algorithm Visualizer** — Visual walkthrough of common sorting algorithms.
 - **Student Attendance Management System** — Digitized attendance tracking for institutions.
 
@@ -58,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-myst&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-myst&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=me-myst&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Toshit's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-myst&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
