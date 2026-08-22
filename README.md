@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Toshit Tewari 👋</h1>
 
-<h3 align="center">Software Developer in the making | BCA Student | Building things that solve real problems</h3>
+<h3 align="center">BCA Student | Gamer | Building things that solve real problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=28A745&center=true&vCenter=true&width=500&lines=Building+full-stack+apps;Solving+DSA+problems+daily;Learning+something+new+every+day" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 - 🎓 Third-year **BCA student** at Graphic Era Hill University, Bhimtal
 - 💻 Currently sharpening my **DSA skills in Java** and building full-stack projects
 - 🌱 Working on **SevaGram** — a prototype rural home-services booking platform
-- ♟️ State-level chess player — strategic thinking isn't just for code
+- ♟️ State-level chess champion and national qualified — strategic thinking isn't just for code
 - 🏆 Hackathon participant — won recognition for an IoT concept
 - 📫 Open to internship opportunities in software development
 
@@ -51,19 +51,6 @@
 - **Face Recognition Attendance System** — Automated attendance using facial recognition.
 - **Sorting Algorithm Visualizer** — Visual walkthrough of common sorting algorithms.
 - **Student Attendance Management System** — Digitized attendance tracking for institutions.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-myst&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Toshit's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-myst&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-myst&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
